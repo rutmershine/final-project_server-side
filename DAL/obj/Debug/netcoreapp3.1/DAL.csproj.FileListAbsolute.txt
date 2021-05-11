@@ -1,0 +1,12 @@
+D:\תכנות - שנה ב\Final Project\second\DAL\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+D:\תכנות - שנה ב\Final Project\second\DAL\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+D:\תכנות - שנה ב\Final Project\second\DAL\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+D:\תכנות - שנה ב\Final Project\second\DAL\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\תכנות - שנה ב\Final Project\second\DAL\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\תכנות - שנה ב\Final Project\second\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+D:\תכנות - שנה ב\Final Project\second\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+D:\תכנות - שנה ב\Final Project\second\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+D:\תכנות - שנה ב\Final Project\second\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+D:\תכנות - שנה ב\Final Project\second\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+D:\תכנות - שנה ב\Final Project\second\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+D:\תכנות - שנה ב\Final Project\second\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\תכנות - שנה ב\Final Project\second\DAL\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+D:\תכנות - שנה ב\Final Project\second\DAL\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+D:\תכנות - שנה ב\Final Project\second\DAL\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\תכנות - שנה ב\Final Project\second\DAL\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\תכנות - שנה ב\Final Project\second\DAL\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\תכנות - שנה ב\Final Project\second\DAL\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+D:\תכנות - שנה ב\Final Project\second\DAL\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+D:\תכנות - שנה ב\Final Project\second\DAL\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+D:\תכנות - שנה ב\Final Project\second\DAL\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+D:\תכנות - שנה ב\Final Project\second\DAL\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+D:\תכנות - שנה ב\Final Project\second\DAL\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+D:\תכנות - שנה ב\Final Project\second\DAL\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
